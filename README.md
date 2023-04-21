@@ -4,10 +4,6 @@ Here is a basic demo of how to package a shared [MakeCode Arcade](https://arcade
 
 ![screenshot](./public/screenshot.png)
 
-This project was bootstrapped with [Create React App (CRA)](https://github.com/facebook/create-react-app), and packaged for iOS using [Capacitor JS](https://capacitorjs.com/).
-
-To expand on this demo, you must know more about programming in React and understand how Capacitor works. There are lots of great tutorials on YouTube.
-
 ## First-time dev setup
 
 ### Prerequisites
@@ -68,3 +64,4 @@ Debugging is best done using the browser dev tools.
 ## ~ Fin ~
 Enjoy! This project only gets as far as loading in the iOS simulator. There are a few more steps necessary to upload it to the App Store.
 
+This project was bootstrapped with [Create React App (CRA)](https://github.com/facebook/create-react-app), and packaged for iOS using [Capacitor JS](https://capacitorjs.com/). There are lots of great tutorials on YouTube for learning these frameworks.
