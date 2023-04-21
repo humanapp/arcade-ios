@@ -42,7 +42,7 @@ In the instance of Xcode opened above, press the "start" button to run the app. 
 
 ### Point the code to your shared game
 
-1. In `src/App.ts`, change `GAME_ID` to your game's Game ID.
+1. In `src/App.tsx`, change `GAME_ID` to your game's Game ID.
 
     To get a Game ID, share a game from the MakeCode Arcade editor, then grab the identifier off the end of the generated URL, e.g.: https://arcade.makecode.com/**S27624-55361-60357-84470**
 
