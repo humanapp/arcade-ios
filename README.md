@@ -1,6 +1,6 @@
 # MakeCode Arcade player for iOS
 
-This is a simple demo of how to package a shared [MakeCode Arcade](https://arcade.makecode.com) game into a native app for iOS.
+This is a simple demo illustrating how to package a [MakeCode Arcade](https://arcade.makecode.com) game into a native app for iOS.
 
 ![screenshot](./public/screenshot.png)
 
