@@ -38,7 +38,7 @@ Clone this repo and install dependencies.
 
 ### Start dev server
 
-On a command prompt: `npm start`. This will start the CRA dev server. this enable code changes to hot-reload in the iOS simulator (or in a browser, if that's where you're testing your app).
+On a command prompt: `npm start`. This will start the CRA dev server. This enables your changes to hot-reload in the iOS simulator (or in a browser, if that's where you're testing your app).
 
 ### Start the iOS simulator
 
@@ -50,7 +50,7 @@ In the instance of Xcode opened above, press the "start" button to run the app. 
 
     To get a Game ID, share a game from the MakeCode Arcade editor, then grab the identifier off the end of the generated URL, e.g.: https://arcade.makecode.com/**S27624-55361-60357-84470**
 
-2. Save the file and watch your change reload in the iOS simulator!
+2. Save the file and see your game load in the iOS simulator!
 
 ### Just for fun
 
@@ -66,6 +66,5 @@ Debugging is best done using the browser dev tools.
 4. In the file explorer you should be able to find your source files in TypeScript form. Avoid any compiled JS. You can set breakpoints, single-step, inspect things, etc here.
 
 ## ~ Fin ~
-
-Enjoy! This project only goes so far as to get the game loaded in the iOS simulator. There are a few more steps required to upload a build to your physical iPhone, and a many steps beyond that to upload to the App Store.
+Enjoy! This project only gets as far as loading in the iOS simulator. There are a few more steps necessary to upload it to the App Store.
 
