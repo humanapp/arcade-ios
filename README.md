@@ -20,7 +20,7 @@ Clone this repo and install dependencies.
 2. `cd arcade-ios`
 3. `npm install`
 
-## Basic development
+## Development
 
 ### Open the project
 
